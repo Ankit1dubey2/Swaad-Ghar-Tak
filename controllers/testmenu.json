@@ -1,0 +1,398 @@
+[
+  {
+    "itemId": 1,
+    "name": "Aloo Gobi",
+    "price": 150,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/aloo-gobi-image.jpg",
+    "category": "main_course"
+  },
+  {
+    "itemId": 2,
+    "name": "Burger",
+    "price": 120,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/burger.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 3,
+    "name": "Butter Naan",
+    "price": 50,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/butter_naan.webp",
+    "category": "bread"
+  },
+  {
+    "itemId": 4,
+    "name": "Chana Masala",
+    "price": 180,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/chana-masala-image.jpg",
+    "category": "main_course"
+  },
+  {
+    "itemId": 5,
+    "name": "Chocolate Cake",
+    "price": 200,
+    "serve": 1,
+    "unit": "slice",
+    "image": "/img/menu/chocolate_cake.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 6,
+    "name": "Chocolate Shake",
+    "price": 100,
+    "serve": 1,
+    "unit": "glass",
+    "image": "/img/menu/chocolate_shake.webp",
+    "category": "beverage"
+  },
+  {
+    "itemId": 7,
+    "name": "Chole Bhature",
+    "price": 150,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/chole_bhature.webp",
+    "category": "main_course"
+  },
+  {
+    "itemId": 8,
+    "name": "Chowmein",
+    "price": 120,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/chowmein.webp",
+    "category": "main_course"
+  },
+  {
+    "itemId": 9,
+    "name": "Cold Coffee",
+    "price": 90,
+    "serve": 1,
+    "unit": "glass",
+    "image": "/img/menu/cold_coffee.webp",
+    "category": "beverage"
+  },
+  {
+    "itemId": 10,
+    "name": "Dahi Bhalla",
+    "price": 80,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/dahi_bhalle.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 11,
+    "name": "Dahi Puri",
+    "price": 60,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/dahi-puri-image.jpg",
+    "category": "snacks"
+  },
+  {
+    "itemId": 12,
+    "name": "Dal Makhni",
+    "price": 180,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/dal_makhni.webp",
+    "category": "main_course"
+  },
+  {
+    "itemId": 13,
+    "name": "Dal Tadka",
+    "price": 150,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/dal-tadka-image.jpg",
+    "category": "main_course"
+  },
+  {
+    "itemId": 14,
+    "name": "Dhokla",
+    "price": 80,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/dhokla.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 15,
+    "name": "Dosa",
+    "price": 100,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/dosa.webp",
+    "category": "main_course"
+  },
+  {
+    "itemId": 16,
+    "name": "French Fries",
+    "price": 60,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/french_fries.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 17,
+    "name": "Gajar Pak",
+    "price": 120,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/gajar_pak.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 18,
+    "name": "Gol Gappe",
+    "price": 50,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/golgappe.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 19,
+    "name": "Gulab Jamun",
+    "price": 60,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/gulab_jamun.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 20,
+    "name": "Hakka Noodles",
+    "price": 120,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/hakka-noodles-image.jpg",
+    "category": "main_course"
+  },
+  {
+    "itemId": 21,
+    "name": "Hot Coffee",
+    "price": 50,
+    "serve": 1,
+    "unit": "cup",
+    "image": "/img/menu/hot_coffee.webp",
+    "category": "beverage"
+  },
+  {
+    "itemId": 22,
+    "name": "Ice Cream",
+    "price": 70,
+    "serve": 1,
+    "unit": "scoop",
+    "image": "/img/menu/ice_cream.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 23,
+    "name": "Idli",
+    "price": 60,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/idli.webp",
+    "category": "main_course"
+  },
+  {
+    "itemId": 24,
+    "name": "Jalebi",
+    "price": 50,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/jalebi.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 25,
+    "name": "Kulfi",
+    "price": 50,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/kulfi.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 26,
+    "name": "Mango Shake",
+    "price": 90,
+    "serve": 1,
+    "unit": "glass",
+    "image": "/img/menu/mango_shake.webp",
+    "category": "beverage"
+  },
+  {
+    "itemId": 27,
+    "name": "Momos",
+    "price": 100,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/momos.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 28,
+    "name": "Motichoor Laddu",
+    "price": 40,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/motichoor_laddu.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 29,
+    "name": "Pakode",
+    "price": 50,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/pakode.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 30,
+    "name": "Palak Paneer",
+    "price": 180,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/palak-paneer-image.jpg",
+    "category": "main_course"
+  },
+  {
+    "itemId": 31,
+    "name": "Paneer Butter Masala",
+    "price": 200,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/paneer-butter-masala-image.jpg",
+    "category": "main_course"
+  },
+  {
+    "itemId": 32,
+    "name": "Papdi Chaat",
+    "price": 60,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/papdi_chat.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 33,
+    "name": "Pav Bhaji",
+    "price": 150,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/pav_bhaji.webp",
+    "category": "main_course"
+  },
+  {
+    "itemId": 34,
+    "name": "Peda Barfi",
+    "price": 80,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/peda_barfi.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 35,
+    "name": "Pizza",
+    "price": 250,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/pizza.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 36,
+    "name": "Raita",
+    "price": 40,
+    "serve": 1,
+    "unit": "bowl",
+    "image": "/img/menu/raita-image.jpg",
+    "category": "side_dish"
+  },
+  {
+    "itemId": 37,
+    "name": "Ras Malai",
+    "price": 70,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/ras_malai.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 38,
+    "name": "Rasgulla",
+    "price": 60,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/rasgulla.webp",
+    "category": "dessert"
+  },
+  {
+    "itemId": 39,
+    "name": "Red Sauce Pasta",
+    "price": 180,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/red_sauce_pasta.webp",
+    "category": "main_course"
+  },
+  {
+    "itemId": 40,
+    "name": "Salad",
+    "price": 50,
+    "serve": 1,
+    "unit": "bowl",
+    "image": "/img/menu/salad.webp",
+    "category": "side_dish"
+  },
+  {
+    "itemId": 41,
+    "name": "Samosa",
+    "price": 20,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/samosa.webp",
+    "category": "snacks"
+  },
+  {
+    "itemId": 42,
+    "name": "Strawberry Shake",
+    "price": 90,
+    "serve": 1,
+    "unit": "glass",
+    "image": "/img/menu/strawberry_shake.webp",
+    "category": "beverage"
+  },
+  {
+    "itemId": 43,
+    "name": "Vegetable Biryani",
+    "price": 150,
+    "serve": 1,
+    "unit": "plate",
+    "image": "/img/menu/vegetable-biryani-image.jpg",
+    "category": "main_course"
+  },
+  {
+    "itemId": 44,
+    "name": "Vegetable Samosa",
+    "price": 20,
+    "serve": 1,
+    "unit": "piece",
+    "image": "/img/menu/vegetable-samosa-image.jpg",
+    "category": "snacks"
+  }
+]
