@@ -30,7 +30,7 @@ The database is managed using:
 
 ## Template Engine
 •	EJS (Embedded JavaScript): Templating engine for generating HTML markup with plain JavaScript.
-## Authors
+## Author
 
 - [@ankitdubey](https://github.com/Ankit1dubey2)
 
